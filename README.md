@@ -21,6 +21,15 @@
 
 ---
 
+### ⚡ GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhaukal01&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaukal01&theme=radical" alt="GitHub Streak"/>
+</div>
+
+---
+
 ### 💡 What I Build
 
 - **Chromium Based Browser Extensions**: Simple yet real worls use case based
